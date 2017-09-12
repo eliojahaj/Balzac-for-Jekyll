@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "There are alternatives"
+title: "Actually, there are alternatives"
 description: "Response to 'The Internet with a Human Face'."
 category: articles
 
