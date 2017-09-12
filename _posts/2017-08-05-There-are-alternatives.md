@@ -1,44 +1,9 @@
 ---
 layout: post-no-feature
 title: "There are alternatives"
-description: "Response to 'The Internet with a Human Face."
+description: "Response to 'The Internet with a Human Face'."
 category: articles
 
 ---
 
-Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
-
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
-
-## Cupidatat 90's lo-fi authentic try-hard
-
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's. 
-
-* Sartorial hoodie 
-* Labore viral forage
-* Tote bag selvage 
-* DIY exercitation et id ugh tumblr church-key
-
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
-
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
-
-## Forage occaecat cardigan qui
-
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole. 
-
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
-
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
-
-## Hoodie Duis
-
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
-
-### Thundercats Ho!
-
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
-
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
+Maciej Ceglowski concluded his talk with a plea/urge/desperate cry to the audience: “You people are designers, treat it as a design problem.” In a sense, this statement brought Ceglowski’s talk full circle. When he began comparing the development of the web to the development of highway system under President Eisenhower, he threw around a variety of ideas as to why the present was designed in such a way that the future promised a car to every individual. There are three major strands of logics according to a breakdown of his statement. The first is innocence, or the fact that the designers acted out of best intentions, but could not force a future where cars would contribute to urban alienation and atomization. The second is that the economic interests of the parties involved demanded that every individual or individual household own a car. The third is that they foresaw no alternatives. I believe the approximate answer lies at the intersection of these last two reasons. First, the influence and lobbying of private companies is undeniable, as well as the government effort to create suburbia were motivated by the need to create an urban workforce, as many war vets preferred to move to places such as Vermont where they could enjoy a peaceful existence. This was a deliberate and interested push. However, at the same time what guided these architects at every level was the growing belief (which has culminated nowadays) that there are no alternatives to capitalism. Perhaps the biggest loss, added to the woes of alienation of and surveillance, is the loss of human potential that this results in. To be perfectly clear, I do not believe certain human beings have inherent skills and qualities that differentiate them from the rest. If the social landscape is permissible (a.k.a. everyone had a share in the immense wealth the world produces), I believe we can all excel and find fulfillment. However, our landscapes of economic inequality have succeeded in creating landscape of inequality in terms of skills and expertise. And although we need to revamp this landscape, isn’t it such a terrible waste and shame that some of the most brilliant and technically skilled individuals and teams around spend their days trying to figure out how to keep you on a site for 1 or 2 minutes longer? Days by day this figure goes down, while the loss in potential increases. If these skills were directed towards other productive capacities many of our social woes could be resolves, actual problems concerning dams and transportation systems and not how to make Candy Crush Saga just slightly more addictive. Like suburbia, the internet become a highly commercialized space because of the reluctance and taboo of imagining and designing alternatives. Ceglowski falls prey to this himself at the end of his speech, while his analysis is quite radical in tone his prescriptions do not significantly alter the landscape of the web, at best they trim its bushes. Is it that impossible to image the web as a possibly noncommercial space, a truly free and democratized space with no barriers to entry nor stay? This will take us to seek and intentionally design alternatives, not merely add regulations to the web, but take the extra step and imagine and online and offline landscape that is truly equitable and that promotes the value and dignity of human life regardless of ability to pay. 
