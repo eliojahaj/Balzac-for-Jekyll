@@ -28,13 +28,13 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: All About this Blog
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/eliojahaj
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: All About Elio
+    url: http://student2.bennington.edu/~eliojahaj/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
