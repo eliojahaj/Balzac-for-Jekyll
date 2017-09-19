@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: The Big Misconceptions About Big Data
+title: "The Big Misconceptions About Big Data"
 description: Response to "Everybody lies: how Google search reveals our darkest secrets"
 categories: articles
 date: 2017-09-19
