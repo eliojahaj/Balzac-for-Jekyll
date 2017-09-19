@@ -3,7 +3,7 @@ layout: post-light-feature
 title: The Big Misconceptions About Big Data
 description: Response to "Everybody lies: how Google search reveals our darkest secrets"
 categories: articles
-2017-09-19
+date: 2017-09-19
 image: 
         feature: soft-trees.jpg
 ---
