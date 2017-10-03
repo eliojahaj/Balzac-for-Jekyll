@@ -12,7 +12,8 @@ The main challenge was to figure out a function that would tell us the amount of
 
 Eventually, we settled on refining our skills and trying a random function. We created two files to get the text of the url as well as the word count. Additionally, we decided to print according to a random function. The results were random singular letters and characters, which poses the challenge of figuring out how to print full words or phrases while still adhering to a random function. The code we ended up with is below.
 
-''' from bs4 import BeautifulSoup import requests import random import time
+```
+from bs4 import BeautifulSoup import requests import random import time
 
 url = "https://en.wikipedia.org/wiki/Communism" result = requests.get(url) content = result.content soup = BeautifulSoup(content, "html.parser")
 
@@ -20,4 +21,6 @@ def get_text(url,text_file): text_on_site = (soup.get_text().encode('utf-8')) wi
 
 def get_word_count(text_file, wordcount_file): with open(text_file) as f: wordcount = str(Counter(f.read().split())) with open(wordcount_file, "wb") as file: file.write(str(wordcount)) print "Check directory for file"
 
-while True: print random.choice(content) time.sleep(1) '''
+while True: print random.choice(content) time.sleep(1) 
+
+```
