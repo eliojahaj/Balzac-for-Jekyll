@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Post and Feature Image
+layout: post-no-feature
+title: 
 description: "Group work from Eden, Lucy and Elio"
 category: articles
 tags:
