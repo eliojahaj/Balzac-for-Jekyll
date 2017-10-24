@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The-Architecture-of-Occupation-in-the-21st-Century"
+title: "The Architecture of Occupation in the 21st Century"
 description: "Midterm project reflection by Eden, Elbunit and Elio"
 category: articles
 ---
@@ -19,7 +19,7 @@ In order to do this we made the choice of using the Google Static Maps API, whic
 location according to our own parameters such as zoom, size, annotations etc. We first collected and organized the langtitudes 
 and longtitudes of a number of bases in the U.S. and abroad to serve as our testing sample. For this we used militarybases.com,
 which is not officially affiliated with any governemnt agencies. After compiling this data, we wrote the following simple python script
-to serve our testing purposes. 
+to serve our testing purposes. A main challenge for our code moving forward, also based on our thencical skills, is integrating a csv file where all the coordinate information is stored, which can be used to automatically take satellite imagery of these locations. At this time, the following script is still quite manual. 
 
 ```
 import urllib
@@ -40,12 +40,15 @@ output.close()
 print "Created map 2!"
 ```
 
+There are roughly two main types of maps we can collect from Google Maps. The first one below is a representational map as opposed to staellite imagery, which allows us to analyze various political and to some extent demographic trends that spur up from the U.S. military base in Okinawa, Japan. 
 
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/nL2L0m/file01.png" alt="file01" border="0"></a>
+<a href="https://ibb.co/n5OhD6"><img src="https://image.ibb.co/jW3Sfm/file02.png" alt="file02" border="0"></a>
 
 
 <figure>
-	<img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg">
-	<figcaption>Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</figcaption>
+	<img src="https://image.ibb.co/nL2L0m/file01.png">
+	<figcaption>Map of Okinawa featuring the U.S. military base</figcaption>
 </figure>
 
 {% highlight html linenos %}
