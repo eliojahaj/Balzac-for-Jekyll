@@ -17,12 +17,28 @@ their world-making impacts and what they mean for local cultures and life practi
 
 In order to do this we made the choice of using the Google Static Maps API, which allowed us to take a satellite picture of a 
 location according to our own parameters such as zoom, size, annotations etc. We first collected and organized the langtitudes 
-and longtitudes of a number of bases in the U.S. and abroad to serve as our testing sample. FOr this we used militarybases.com,
-which is not officially affiliated with any governemnt agencies. After compiling this data, we wrote a very simple python script
+and longtitudes of a number of bases in the U.S. and abroad to serve as our testing sample. For this we used militarybases.com,
+which is not officially affiliated with any governemnt agencies. After compiling this data, we wrote the following simple python script
 to serve our testing purposes. 
 
 ```
+import urllib
 
+
+resource = urllib.urlopen("https://maps.googleapis.com/maps/api/staticmap?center=26.460693,127.916785&zoom=14&size=400x400&key=AIzaSyB6uNOMNhV-tJwKra3Oiy9fVJuE7XnQsGY")
+output = open("file01.jpg","wb")
+output.write(resource.read())
+output.close()
+
+print "Created map 1!"
+
+resource = urllib.urlopen("https://maps.googleapis.com/maps/api/staticmap?maptype=satellite&center=26.460693,127.916785&zoom=14&size=640x400&key=AIzaSyB6uNOMNhV-tJwKra3Oiy9fVJuE7XnQsGY")
+output = open("file02.jpg","wb")
+output.write(resource.read())
+output.close()
+
+print "Created map 2!"
+```
 
 
 
