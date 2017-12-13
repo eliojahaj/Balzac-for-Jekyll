@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title:
-description: Attention Spam
+description: Final Project Documentation
 category: articles
 
 ---
